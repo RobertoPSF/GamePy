@@ -1,5 +1,5 @@
 # GamePy
-A simple calculating game
+Um jogo simples de cálculos
 
 O projeto foi feito na versão 3.9 do Python!
 
